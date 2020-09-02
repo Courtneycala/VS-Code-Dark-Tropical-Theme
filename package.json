@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "preview": true,
     "publisher": "CourtneyCalagaz",
+    "icon": "icon128.png",
     "author": {
         "name": "Courtney Calagaz"
     },
@@ -18,6 +19,10 @@
     "galleryBanner": {
         "color": "#252f38",
         "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Courtneycala/VS-Code-Dark-Tropical-Theme"
     },
     "keywords": [
         "theme",
