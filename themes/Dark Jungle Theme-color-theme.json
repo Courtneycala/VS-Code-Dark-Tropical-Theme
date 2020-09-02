@@ -111,7 +111,7 @@
 		
 		//background ofthe activity bar, atm the base darker color
 		"activityBar.background": "#252f38",
-		//"activityBar.dropBackground": "#34294f66",
+		//"activityBar.dropBackground": "#1d252c66",
 		"activityBar.foreground": "#739aa4",
      	//	"activityBarBadge.background": "#f97e72",
 		"activityBarBadge.foreground": "#1d252c",
@@ -166,7 +166,7 @@
 		"editor.wordHighlightStrongBackground": "#fa755a57",
 		"editor.findMatchBackground": "#3d7c81ab",
 		"editor.findMatchHighlightBackground": "#44525f8f",
-		"editor.findRangeHighlightBackground": "#34294f1a",
+		"editor.findRangeHighlightBackground": "#1d252c1a",
 		"editor.hoverHighlightBackground": "#252f38a6",
 		"editor.lineHighlightBackground": "#49989710",
 		"editor.rangeHighlightBackground": "#49549539",
@@ -175,11 +175,11 @@
 		//indent guide color for the current active line, 80% opaque
 		"editorIndentGuide.activeBackground": "#ee8da2bb",
 		//font color of editor rulers
-		"editorRuler.foreground": "#34294f33",
+		"editorRuler.foreground": "#1d252c33",
 		"editorCodeLens.foreground": "#ffffff7c",
-		"editorBracketMatch.background": "#34294f66",
+		"editorBracketMatch.background": "#1d252c66",
 		"editorBracketMatch.border": "#495495",
-		"editorOverviewRuler.border": "#34294fb3",
+		"editorOverviewRuler.border": "#1d252cb3",
 		"editorOverviewRuler.findMatchForeground": "#D1861699",
 		"editorOverviewRuler.modifiedForeground": "#b893ce99",
 		"editorOverviewRuler.addedForeground": "#09f7a099",
