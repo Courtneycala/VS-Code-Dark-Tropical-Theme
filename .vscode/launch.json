@@ -6,14 +6,7 @@
 	"version": "0.2.0",
     "configurations": [
 
-        {
-            "name": "Launch Extension",
-            "request": "launch",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "type": "pwa-node"
-        },
+        
         {
             "name": "Extension",
             "type": "extensionHost",
@@ -21,8 +14,8 @@
             "runtimeExecutable": "${execPath}",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
-            ],
-            "preLaunchTask": "npm: build"
+            ]
+            
         }
     ]
 }

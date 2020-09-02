@@ -113,7 +113,7 @@
 		"activityBar.background": "#252f38",
 		//"activityBar.dropBackground": "#34294f66",
 		"activityBar.foreground": "#739aa4",
-     //	"activityBarBadge.background": "#f97e72",
+     	//	"activityBarBadge.background": "#f97e72",
 		"activityBarBadge.foreground": "#1d252c",
 		"activityBar.activeBorder": "#c996ebc4",
 		"activityBarBadge.background": "#c996ebc4",
