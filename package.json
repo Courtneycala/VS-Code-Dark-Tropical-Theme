@@ -8,6 +8,7 @@
     "author": {
         "name": "Courtney Calagaz"
     },
+    "publisher": "CourtneyC0217",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -37,6 +38,8 @@
                 "path": "./themes/Dark Jungle Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.79.5"
     }
-   
 }
