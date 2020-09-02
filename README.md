@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="icon128.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">dark-tropical-theme</h3>
+<h3 align="center">Dark Tropical Theme</h3>
 
 <div align="center">
 
@@ -27,18 +27,14 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-This is a Visual Studio Code code editor theme inspired by the tropics. This dark theme contrasts 
+This is a Visual Studio Code code editor theme inspired by the tropics. This theme contrast a dark green background with vibrant syntax colors. 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -52,31 +48,10 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
-
-```
-Give the example
+Go to the VS Code Extension Marketplace, search for Dark Tropical Theme and click install on this extension.
 ```
 
-And repeat
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
@@ -88,7 +63,7 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+To deploy this theme after installing it, simply navigate to Settings > Color Theme > "Dark Tropical Theme"
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
@@ -103,12 +78,5 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Courtneycala](https://github.com/Courtneycala) 
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
