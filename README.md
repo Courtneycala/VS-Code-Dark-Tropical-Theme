@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="icon128.png" alt="Project logo"></a>
+ <img width=200px height=200px src="icon256.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Dark Tropical Theme</h3>
@@ -34,7 +34,7 @@
 
 This is a Visual Studio Code code editor theme inspired by the tropics. This theme contrast a dark green background with vibrant syntax colors. 
 <p align="center">
-  <img width=200px height=200px src="Homepage preview.png" alt="Homepage"></a>
+  <img width=100% height=100% src="Homepage preview.png" alt="Homepage"></a>
 
 ### Prerequisites
 
