@@ -2,7 +2,7 @@
     "name": "dark-jungle-theme",
     "displayName": "Dark Tropical Theme",
     "description": "A dark theme for VS Code.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "preview": true,
     "icon": "icon128.png",
     "author": {
