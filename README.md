@@ -33,8 +33,8 @@
 ## 🧐 About <a name = "about"></a>
 
 This is a Visual Studio Code code editor theme inspired by the tropics. This theme contrast a dark green background with vibrant syntax colors. 
-
-
+<p align="center">
+  <img width=200px height=200px src="Homepage preview.png" alt="Homepage"></a>
 
 ### Prerequisites
 
