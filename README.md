@@ -36,9 +36,6 @@ This is a Visual Studio Code code editor theme inspired by the tropics. This the
 <p align="center">
   <img width=100% height=100% src="Homepage preview.png" alt="Homepage"></a>
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
 
 
 
