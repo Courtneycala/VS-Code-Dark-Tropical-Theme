@@ -47,17 +47,7 @@ What things you need to install the software and how to install them.
 A step by step series of examples that tell you how to get a development env running.
 
 Go to the VS Code Extension Marketplace, search for Dark Tropical Theme and click install on this extension.
-```
 
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
 

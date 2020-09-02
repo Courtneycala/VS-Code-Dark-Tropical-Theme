@@ -4,7 +4,6 @@
     "description": "A dark theme for VS Code.",
     "version": "0.0.1",
     "preview": true,
-    "publisher": "CourtneyCalagaz",
     "icon": "icon128.png",
     "author": {
         "name": "Courtney Calagaz"
@@ -38,8 +37,6 @@
                 "path": "./themes/Dark Jungle Theme-color-theme.json"
             }
         ]
-    },
-    "dependencies": {
-        "themeparks": "^5.1.39"
     }
+   
 }
