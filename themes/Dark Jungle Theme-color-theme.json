@@ -69,7 +69,7 @@
 		"inputValidation.errorBorder": "#ee3057",
 		//text input box border
 		"input.border": "#c792ea00",
-	//	"inputOption.activeBorder": "#c792ea7e",
+	 //	"inputOption.activeBorder": "#c792ea7e",
 
 		//scrollbar colors
 		//shadow behind the scrollbar 
@@ -113,7 +113,7 @@
 		"activityBar.background": "#252f38",
 		//"activityBar.dropBackground": "#34294f66",
 		"activityBar.foreground": "#739aa4",
-//	"activityBarBadge.background": "#f97e72",
+     //	"activityBarBadge.background": "#f97e72",
 		"activityBarBadge.foreground": "#1d252c",
 		"activityBar.activeBorder": "#c996ebc4",
 		"activityBarBadge.background": "#c996ebc4",
@@ -150,9 +150,9 @@
 		//border color between the 2 text editors
 		"diffEditor.border": "#1d252c",
 
-	//	"editor.background": "#262335",
-	//color of line number
-	//	"editorLineNumber.foreground": "#5ea9a2bd",
+		//	"editor.background": "#262335",
+		//color of line number
+		//	"editorLineNumber.foreground": "#5ea9a2bd",
 		//font color of the editor line number, set at roughly 80% opacity so it won't be distracting
 		"editorLineNumber.foreground": "#3d7c81ab",
 		"editorLineNumber.activeForeground": "#ffffffcc",
