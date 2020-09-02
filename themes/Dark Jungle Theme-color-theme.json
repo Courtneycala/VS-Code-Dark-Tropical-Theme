@@ -102,7 +102,7 @@
 		//background for selective item in an inactive list, about 45% opaque
 		"list.inactiveSelectionBackground": "#3847555d",
 		"list.inactiveSelectionForeground": "#77c3c6",
-		"list.inactiveFocusBackground": "#2a213999",
+		"list.inactiveFocusBackground": "#252f3899",
 		//font color of list items containing errors
 		"list.errorForeground": "#fe4450dc",
 		//font color of list items that have warnings
@@ -203,12 +203,12 @@
 		
 		
 		"peekView.border": "#495495",
-		"peekViewEditor.background": "#232530",
+		"peekViewEditor.background": "#1d252c",
 		"peekViewEditor.matchHighlightBackground": "#D18616bb",
-		"peekViewResult.background": "#232530",
+		"peekViewResult.background": "#1d252c",
 		"peekViewResult.matchHighlightBackground": "#D1861655",
-		"peekViewResult.selectionBackground": "#2a213980",
-		"peekViewTitle.background": "#232530",
+		"peekViewResult.selectionBackground": "#252f3880",
+		"peekViewTitle.background": "#1d252c",
 		
 
 		//panel colors
