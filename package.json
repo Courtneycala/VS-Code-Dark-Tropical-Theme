@@ -1,0 +1,40 @@
+{
+    "name": "dark-jungle-theme",
+    "displayName": "Dark Tropical Theme",
+    "description": "A dark theme for VS Code.",
+    "version": "0.0.1",
+    "preview": true,
+    "publisher": "CourtneyCalagaz",
+    "author": {
+        "name": "Courtney Calagaz"
+    },
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#252f38",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "tropical",
+        "jungle"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Tropical Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Jungle Theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "themeparks": "^5.1.39"
+    }
+}
