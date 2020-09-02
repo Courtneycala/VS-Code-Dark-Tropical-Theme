@@ -40,9 +40,7 @@ This is a Visual Studio Code code editor theme inspired by the tropics. This the
 
 What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+
 
 ### Installing
 
