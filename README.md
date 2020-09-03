@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="icon256.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./icon256.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Dark Tropical Theme</h3>
@@ -24,7 +24,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
+- [Installing](#installing)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Contributing](../CONTRIBUTING.md)
@@ -34,8 +34,16 @@
 
 This is a Visual Studio Code code editor theme inspired by the tropics. This theme contrast a dark green background with vibrant syntax colors. 
 <p align="center">
-  <img width=100% height=100% src="Homepage preview.png" alt="Homepage"></a>
+  <img width=100% height=100% src="./Homepage preview.png" alt="Homepage"></a>
 
+<p align="center">
+  <img width=100% height=100% src="./Java preview.png" alt="Java"></a>
+
+<p align="center">
+  <img width=100% height=100% src="./Python preview.png" alt="Python"></a>
+
+<p align="center">
+  <img width=100% height=100% src="./cpp preview.png" alt="C++"></a>
 
 
 
@@ -50,15 +58,11 @@ Go to the VS Code Extension Marketplace, search for Dark Tropical Theme and clic
 
 To deploy this theme after installing it, simply navigate to Settings > Color Theme > "Dark Tropical Theme"
 
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [VS Code Extension API](https://code.visualstudio.com/api) - API
+- [Yeomen VS Code Extension Generator](https://www.npmjs.com/package/generator-code) - Scaffolding
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
