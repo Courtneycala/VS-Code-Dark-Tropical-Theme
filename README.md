@@ -40,7 +40,7 @@ This is a Visual Studio Code code editor theme inspired by the tropics. This the
   <img width=100% height=100% src="./Java preview.png" alt="Java"></a>
 
 <p align="center">
-  <img width=100% height=100% src="./Python preview.png" alt="Python"></a>
+  <img width=100% height=100% src="./Python Preview.png" alt="Python"></a>
 
 <p align="center">
   <img width=100% height=100% src="./cpp preview.png" alt="C++"></a>
@@ -49,7 +49,6 @@ This is a Visual Studio Code code editor theme inspired by the tropics. This the
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
 
 Go to the VS Code Extension Marketplace, search for Dark Tropical Theme and click install on this extension.
 
