@@ -3,8 +3,8 @@
     "displayName": "Dark Tropical Theme",
     "description": "A dark theme for VS Code.",
     "version": "0.6.0",
-    "preview": true,
-    "icon": "icon128.png",
+    "preview": false,
+    "icon": "./icon128.png",
     "author": {
         "name": "Courtney Calagaz"
     },
