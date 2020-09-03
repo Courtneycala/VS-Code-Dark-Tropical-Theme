@@ -21,6 +21,7 @@
 		"tab.inactiveForeground": "#739aa4", 
 		//active tab font
 		"tab.activeForeground": "#b5cfcd",
+		"tab.unfocusedActiveBackground": "#252f38",
 		"editor.foreground": "#739aa4",
 		
 		//an extra border around elements to separate them from others for greater contrast 
@@ -162,6 +163,7 @@
 		//background color of the selected portion, low opacity so the highlighted text is still legible
 		"editor.selectionBackground": "#4c707d63",
 		"editor.selectionHighlightBackground": "#4c707d42",
+		"editor.inactiveSelectionBackground": "#4c707d63",
 		"editor.wordHighlightBackground": "#fa755a91",
 		"editor.wordHighlightStrongBackground": "#fa755a57",
 		"editor.findMatchBackground": "#3d7c81ab",
