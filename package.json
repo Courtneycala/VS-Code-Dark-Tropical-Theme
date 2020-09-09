@@ -4,7 +4,7 @@
     "description": "A dark theme for VS Code.",
     "version": "0.8.0",
     "preview": false,
-    "icon": "icon128.png",
+    "icon": "https://github.com/Courtneycala/VS-Code-Dark-Tropical-Theme/raw/main/icon256.png",
     "author": {
         "name": "Courtney Calagaz"
     },
